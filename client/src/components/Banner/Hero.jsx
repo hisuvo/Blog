@@ -3,7 +3,7 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
-    <div className="my-10 space-y-4">
+    <div className="my-20 space-y-4">
       <h1 className="text-4xl md:text-6xl text-center font-bold">
         Your own <span className="text-lime-400">blogging </span> <br />{" "}
         platform.
